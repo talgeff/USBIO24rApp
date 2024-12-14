@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\WorkSpace\\USBIO24rApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|f:\\workspace\\usbio24rapp\\usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|solutionrelative:usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|F:\\WorkSpace\\USBIO24rApp\\usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|solutionrelative:usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|f:\\workspace\\usbio24rapp\\usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|solutionrelative:usbio24rapp\\usbio24r_control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|f:\\workspace\\usbio24rapp\\usbio24rapp\\usbio24rapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|solutionrelative:usbio24rapp\\usbio24rapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|f:\\workspace\\usbio24rapp\\usbio24rapp\\usbio24r_control.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|solutionrelative:usbio24rapp\\usbio24r_control.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27412FA1-BAB4-4E73-8B09-BCE650A9A44A}|USBIO24rApp\\USBIO24rApp.csproj|f:\\workspace\\usbio24rapp\\usbio24rapp\\ui_extention\\led.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,20 +34,45 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "USBIO24R_Control.Designer.cs",
+              "DocumentMoniker": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24R_Control.Designer.cs",
+              "RelativeDocumentMoniker": "USBIO24rApp\\USBIO24R_Control.Designer.cs",
+              "ToolTip": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24R_Control.Designer.cs",
+              "RelativeToolTip": "USBIO24rApp\\USBIO24R_Control.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:54:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USBIO24rApp",
+              "DocumentMoniker": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24rApp.csproj",
+              "RelativeDocumentMoniker": "USBIO24rApp\\USBIO24rApp.csproj",
+              "ToolTip": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24rApp.csproj",
+              "RelativeToolTip": "USBIO24rApp\\USBIO24rApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T18:42:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "USBIO24R_Control.cs",
               "DocumentMoniker": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24R_Control.cs",
               "RelativeDocumentMoniker": "USBIO24rApp\\USBIO24R_Control.cs",
               "ToolTip": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24R_Control.cs*",
               "RelativeToolTip": "USBIO24rApp\\USBIO24R_Control.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwG4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T21:27:32.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Led.cs",
               "DocumentMoniker": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\UI_Extention\\Led.cs",
               "RelativeDocumentMoniker": "USBIO24rApp\\UI_Extention\\Led.cs",
@@ -51,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "USBIO24R_Control.cs [Design]",
               "DocumentMoniker": "F:\\WorkSpace\\USBIO24rApp\\USBIO24rApp\\USBIO24R_Control.cs",
               "RelativeDocumentMoniker": "USBIO24rApp\\USBIO24R_Control.cs",
